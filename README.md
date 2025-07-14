@@ -51,6 +51,6 @@ This project showcases an exploratory data analysis (EDA) of an e-commerce datas
 ## 🛠️ Tools Used
 
 - Python (Jupyter Notebook)
-- `pandas`, `numpy`
-- `matplotlib`, `seaborn`
+- `pandas`
+- `plotly`
 
